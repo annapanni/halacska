@@ -65,6 +65,19 @@ h1 {
     margin: 1rem;
 }
 
+#unibubble{
+    padding-bottom: 3rem;
+}
+
+#gamebubble{
+    padding-bottom: 25rem;
+}
+
+#otherbubble{
+    padding-bottom: -3rem;
+}
+
+
 .menu-bubble{
     position: relative;
     display: inline-block;
